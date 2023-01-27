@@ -3,6 +3,7 @@ items:
  - adobe/adobe.github.com
  - RedHatOfficial/RedHatOfficial.github.io
  - cfpb/cfpb.github.io
+ - cloudquery/cloudquery
  - Netflix/netflix.github.com
  - Esri/esri.github.io
  - square/square.github.io
